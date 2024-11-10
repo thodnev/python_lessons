@@ -1,0 +1,12 @@
+# All PDFs in *current* directory
+/*.pdf
+# Script to convert MDs into PDFs
+/conv.sh
+
+# Directory testdir under repo root dir
+#/testdir/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
