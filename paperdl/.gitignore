@@ -1,0 +1,5 @@
+# Exclude everything under build dir
+build/*
+
+# paper server downloaded to current dir
+/paper-*.jar

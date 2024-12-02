@@ -1,0 +1,11 @@
+[papermc]
+version = "1.21.3-80"
+url = "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/80/downloads/paper-1.21.3-80.jar"
+# this is what goes to 'expected ***'.format()
+fname_fmt = 'paper-{version}.jar'
+# TODO: check that sha1 checksum matches
+hash = 'SHA256:ea8ac3f813abee88f3be3a7d3ae3d1b744542cbbd534bc427ed673f26a24e504'
+
+[myplugin]
+version = "..."
+url = "..."
